@@ -3,12 +3,12 @@
 body {
     background-color: rgb(0, 0, 99);
     color: hsl(53, 46%, 79%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
 }
 
 
 .header {
-    font-size: x-large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;  
 }
 
 .h2 {    
